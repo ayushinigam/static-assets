@@ -1,18 +1,18 @@
 [{
-  "label": "Some Time Deposit offer",
-  "subtitle": "XYZ ",
-  "footer": "05/04/2017 ",
-  "navigateTo": "TD",
-  "offerID": "0"
-}, {
-  "label": "Some SKN offer",
-  "subtitle": "Lorem Ipsum ",
+  "label": "SKN Fee Waiver: Bebas  Biaya Transfer via SKN hanya di New Simobi+",
+  "subtitle": "",
   "footer": "05 / 04 / 2017 ",
   "navigateTo": "SKN",
+  "offerID": "0"
+}, {
+  "label": "Sekarang dapatkan pengembalian 7% untuk semua TD Anda yang dibuat dari New Simobi+",
+  "subtitle": "",
+  "footer": "05 / 04 / 2017 ",
+  "navigateTo": "TD",
   "offerID": "1"
 }, {
-  "label": "Some credit card offer",
-  "subtitle": "ABC ",
+  "label": "Sekarang Bayar semua tagihan Kartu Kredit Anda melalui Simobi +",
+  "subtitle": "",
   "footer": "05 / 04 / 2017 ",
   "navigateTo": "CC",
   "offerID": "2"
